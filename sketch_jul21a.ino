@@ -3,8 +3,6 @@
 
 void setup() {
   Serial.begin(9600);
-  Serial.println("Start");
-
 }
 
 float sigmoid(float x){
